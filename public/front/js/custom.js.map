@@ -1,0 +1,1 @@
+{"version":3,"file":"/front/js/custom.js","mappings":";;;;;AAAA;AACA;AACA;AACA;AACA;AACA,M","sources":["webpack:///./resources/js/custom.js"],"sourcesContent":["// $(function () {\n//   var video = document.getElementById(\"video-bg\");\n//   video.addEventListener(\"loadedmetadata\", function () {\n//     video.muted = false;\n//   });\n// });\n"],"names":[],"sourceRoot":""}
